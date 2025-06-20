@@ -1,6 +1,14 @@
 
 # MODELO UML #
 
+
+Integrantes:
+- Alonso Lagos
+- Francisca Aguayo
+- Benjamin Urrea
+
+
+
 ![image](https://github.com/user-attachments/assets/aaecc75f-7e7a-47d5-83ce-375cef7c7b82)
 
 Se creo el modelo UML en plantuml con el siguiente código.
